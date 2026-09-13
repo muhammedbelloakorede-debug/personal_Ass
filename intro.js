@@ -7,7 +7,7 @@ console.log("Name:", name);
 console.log("Age:", age, "years old");
 console.log("Language:", bestLang);
 console.log("Course:", course);
-console.log("BETECHIFIED");
+console.log("BETECHIFIED");giy
 
 let names1 = ["Muhammed", "Fareed", "Bello", "Akorede", "Olawale"];
 console.log(names1[0]);
